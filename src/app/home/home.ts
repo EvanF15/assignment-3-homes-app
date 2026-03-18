@@ -9,7 +9,7 @@ import { Housinglocationinfo } from '../housinglocationinfo';
   styleUrl: './home.css',
 })
 export class Home {
-  readonly baseUrl = 'https://angular.io/assets/images/tutorials/common';
+  readonly baseUrl = 'https://angular.dev/assets/images/tutorials/common';
   housingLocation: Housinglocationinfo = {
     id: 9999,
     name: 'Test Home',
